@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/koenrohrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+things+that+make+agents+work;Python+%7C+C%2B%2B+%7C+JS+%7C+TypeScript;Always+shipping+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+agentic+tools;Python+%7C+C%2B%2B+%7C+JS+%7C+TypeScript;Always+shipping+something+new" alt="Typing SVG" />
   </a>
 </p>
 
