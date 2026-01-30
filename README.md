@@ -38,15 +38,14 @@
 
 <p align="center">
   <a href="https://github.com/koenrohrer">
-    <img height="200" align="center" src="https://github-readme-stat-puce.vercel.app/api?username=koenrohrer&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="180" align="center" src="https://github-readme-stat-puce.vercel.app/api?username=koenrohrer&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/koenrohrer">
-    <img height="195" align="center" src="https://github-readme-stat-puce.vercel.app/api/top-langs/?username=koenrohrer&layout=donut&theme=tokyonight&hide_border=true&card_width=320" />
+    <img height="180" align="center" src="https://github-readme-stat-puce.vercel.app/api/top-langs/?username=koenrohrer&layout=donut&theme=tokyonight&hide_border=true&card_width=280" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=koenrohrer&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/koenrohrer">
+    <img height="180" align="center" src="https://streak-stats.demolab.com/?user=koenrohrer&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <br>
