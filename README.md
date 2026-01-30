@@ -1,14 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:283457,100:58a6ff&height=220&section=header&text=Hey,%20I'm%20Koen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Builder%20%E2%80%A2%20CS%20%40%20UNC%20Chapel%20Hill%20%E2%80%A2%20Building%20Agentic%20Applications&descSize=16&descAlignY=55&descColor=c0caf5&animation=fadeIn" />
+
 <p align="center">
   <a href="https://github.com/koenrohrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+AI+developer+tools;Python+%26+TypeScript;Making+agents+work+better" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+things+that+make+agents+work;Python+%7C+C%2B%2B+%7C+JS+%7C+TypeScript;Always+shipping+something+new" alt="Typing SVG" />
   </a>
 </p>
 
-<h2 align="center">Hey, I'm Koen</h2>
-
 <p align="center">
-  I build tools that help developers work with AI agents.<br>
-  Currently focused on developer tooling, agentic workflows, and making AI agent configurations less painful.
+  Senior CS student at <b>UNC Chapel Hill</b>, graduating May 2026.<br>
+  I build tools that help developers work with AI agents — from VS Code extensions<br>
+  to ML pipelines to interactive visualizations. If it can be built, I want to build it.
 </p>
 
 <br>
