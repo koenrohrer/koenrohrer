@@ -8,19 +8,13 @@
 
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%">
-        <animate attributeName="stop-color" values="#FF2D2D;#FF69B4;#8B5CF6;#FF8C00;#FFD700;#FF2D2D" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="25%">
-        <animate attributeName="stop-color" values="#FF69B4;#8B5CF6;#FF8C00;#FFD700;#FF2D2D;#FF69B4" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#FF2D2D;#8B5CF6;#FF8C00;#FF2D2D" dur="6s" repeatCount="indefinite"/>
       </stop>
       <stop offset="50%">
-        <animate attributeName="stop-color" values="#8B5CF6;#FF8C00;#FFD700;#FF2D2D;#FF69B4;#8B5CF6" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="75%">
-        <animate attributeName="stop-color" values="#FF8C00;#FFD700;#FF2D2D;#FF69B4;#8B5CF6;#FF8C00" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#8B5CF6;#FF8C00;#FF2D2D;#8B5CF6" dur="6s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%">
-        <animate attributeName="stop-color" values="#FFD700;#FF2D2D;#FF69B4;#8B5CF6;#FF8C00;#FFD700" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#FF8C00;#FF2D2D;#8B5CF6;#FF8C00" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
   </defs>
