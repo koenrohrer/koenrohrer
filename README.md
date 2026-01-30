@@ -37,8 +37,12 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stat-puce.vercel.app/api?username=koenrohrer&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" />
-  <img src="https://github-readme-stat-puce.vercel.app/api/top-langs/?username=koenrohrer&layout=compact&theme=tokyonight&hide_border=true&card_width=400" />
+  <a href="https://github.com/koenrohrer">
+    <img height="200" align="center" src="https://github-readme-stat-puce.vercel.app/api?username=koenrohrer&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/koenrohrer">
+    <img height="200" align="center" src="https://github-readme-stat-puce.vercel.app/api/top-langs/?username=koenrohrer&layout=donut&theme=tokyonight&hide_border=true&card_width=320" />
+  </a>
 </p>
 
 <p align="center">
