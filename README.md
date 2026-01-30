@@ -21,8 +21,6 @@ I build tools that help developers work with AI agents. Currently focused on dev
 
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LM Studio](https://img.shields.io/badge/-LM%20Studio-6C47FF?style=flat-square)
 
 ---
 
