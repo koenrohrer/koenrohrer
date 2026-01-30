@@ -25,8 +25,8 @@ I build tools that help developers work with AI agents. Currently focused on dev
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koenrohrer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koenrohrer&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stat-puce.vercel.app/api?username=koenrohrer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stat-puce.vercel.app/api/top-langs/?username=koenrohrer&layout=compact&theme=tokyonight&hide_border=true" height="165" />  
 </p>
 
 <p align="center">
