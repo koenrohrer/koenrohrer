@@ -33,7 +33,7 @@
 
   <!-- Main heading -->
   <text x="425" y="95" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="bold" fill="url(#textGrad)">
-    Hey, I'm Koen
+    Hello, I am Koen!
   </text>
 
   <!-- Subtitle -->
