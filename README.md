@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:283457,100:58a6ff&height=220&section=header&text=Hey,%20I'm%20Koen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Builder%20%E2%80%A2%20CS%20%40%20UNC%20Chapel%20Hill%20%E2%80%A2%20Building%20Agentic%20Applications&descSize=16&descAlignY=55&descColor=c0caf5&animation=fadeIn" />
+<img width="100%" src="./header.svg" />
 
 <p align="center">
   <a href="https://github.com/koenrohrer">

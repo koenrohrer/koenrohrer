@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="50%" stop-color="#1e1e3f"/>
+      <stop offset="100%" stop-color="#1a1b27"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#F9D423;#FF6F00;#FF0080;#7928CA;#00D4FF;#F9D423" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="25%">
+        <animate attributeName="stop-color" values="#FF6F00;#FF0080;#7928CA;#00D4FF;#F9D423;#FF6F00" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%">
+        <animate attributeName="stop-color" values="#FF0080;#7928CA;#00D4FF;#F9D423;#FF6F00;#FF0080" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="75%">
+        <animate attributeName="stop-color" values="#7928CA;#00D4FF;#F9D423;#FF6F00;#FF0080;#7928CA" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#00D4FF;#F9D423;#FF6F00;#FF0080;#7928CA;#00D4FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="220" fill="url(#bgGrad)"/>
+
+  <!-- Top wave -->
+  <path d="M0,0 L850,0 L850,25 Q637.5,12 425,25 Q212.5,38 0,25 Z" fill="#0d1117" opacity="0.3">
+    <animate attributeName="d"
+      values="M0,0 L850,0 L850,25 Q637.5,12 425,25 Q212.5,38 0,25 Z;
+              M0,0 L850,0 L850,25 Q637.5,38 425,25 Q212.5,12 0,25 Z;
+              M0,0 L850,0 L850,25 Q637.5,12 425,25 Q212.5,38 0,25 Z"
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Main heading -->
+  <text x="425" y="95" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="bold" fill="url(#textGrad)">
+    Hey, I'm Koen
+  </text>
+
+  <!-- Subtitle -->
+  <text x="425" y="135" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#c0caf5" opacity="0.85">
+    Builder &#x2022; CS @ UNC Chapel Hill &#x2022; Building Agentic Applications
+  </text>
+
+  <!-- Bottom wave (back) -->
+  <path d="M0,180 Q212.5,160 425,180 Q637.5,200 850,180 L850,220 L0,220 Z" fill="#0d1117" opacity="0.4">
+    <animate attributeName="d"
+      values="M0,180 Q212.5,160 425,180 Q637.5,200 850,180 L850,220 L0,220 Z;
+              M0,180 Q212.5,200 425,180 Q637.5,160 850,180 L850,220 L0,220 Z;
+              M0,180 Q212.5,160 425,180 Q637.5,200 850,180 L850,220 L0,220 Z"
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Bottom wave (front) -->
+  <path d="M0,195 Q212.5,178 425,195 Q637.5,212 850,195 L850,220 L0,220 Z" fill="#0d1117">
+    <animate attributeName="d"
+      values="M0,195 Q212.5,178 425,195 Q637.5,212 850,195 L850,220 L0,220 Z;
+              M0,195 Q212.5,212 425,195 Q637.5,178 850,195 L850,220 L0,220 Z;
+              M0,195 Q212.5,178 425,195 Q637.5,212 850,195 L850,220 L0,220 Z"
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+</svg>
