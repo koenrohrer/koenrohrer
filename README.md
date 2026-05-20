@@ -2,51 +2,56 @@
 
 <p align="center">
   <a href="https://github.com/koenrohrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+agentic+tools;Python+%7C+C%2B%2B+%7C+JS+%7C+TypeScript;Always+shipping+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+AI+developer+tools;Agent-driven+products;Python+%7C+TypeScript+%7C+C%2FC%2B%2B" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  Senior CS student at <b>UNC Chapel Hill</b>, graduating May 2026.<br>
-  I build tools that help developers work with AI agents — from VS Code extensions<br>
-  to ML pipelines to interactive visualizations. If it can be built, I want to build it.
 </p>
 
 <br>
 
 <p align="center">
-  <b>What I'm working on:</b><br><br>
-  <b>agentic-ide</b> — VS Code extension for managing AI agent configurations across Claude, Codex, Ollama, and more<br>
-  <a href="https://github.com/koenrohrer/parkinsons-voice-detector"><b>parkinsons-voice-detector</b></a> — Parkinson's disease detection using voice biomarkers<br>
-  <a href="https://github.com/koenrohrer/nc-sc-county-map"><b>nc-sc-county-map</b></a> — Interactive county map for NC & SC
+  New-grad software engineer, <b>B.S. Computer Science</b> from <b>UNC Chapel Hill</b> (May 2026).<br>
+  I build AI developer tools and agent-driven products — VS Code extensions, Claude-powered<br>
+  agents, and full-stack apps with auth. I care about shipping things that hold up when<br>
+  real users poke at them.
+</p>
+
+<br>
+
+<p align="center">
+  <b>What I'm building</b>
+</p>
+
+<p align="center">
+  <b>SalesEngine</b> — AI sales workspace where agents do the grunt work and humans approve the output<br>
+  <b>Remote Agent Cockpit</b> — self-hosted iPhone PWA for driving Claude and Codex on a Mac<br>
+  <b>Switchboard</b> — VS Code extension for managing LLM, MCP, and agent config from one place<br>
+  <b>OSCAR</b> — CLI that matches job postings to high-signal open-source issues to contribute to<br>
+  <b>Startup Validator</b> — multi-agent system that stress-tests a startup idea into an investor memo<br>
+  <b>Awesome AI</b> — curated knowledge repo on prompting, agents, and the papers worth reading
 </p>
 
 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Claude%20Agent%20SDK-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/koenrohrer">
-    <img height="180" align="center" src="https://github-readme-stat-puce.vercel.app/api?username=koenrohrer&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/koenrohrer">
-    <img height="180" align="center" src="https://github-readme-stat-puce.vercel.app/api/top-langs/?username=koenrohrer&layout=donut&theme=tokyonight&hide_border=true&card_width=280" />
-  </a>
-  <a href="https://github.com/koenrohrer">
-    <img height="180" align="center" src="https://streak-stats.demolab.com/?user=koenrohrer&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
 <br>
