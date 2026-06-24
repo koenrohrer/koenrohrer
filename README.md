@@ -28,7 +28,6 @@
   <b>Remote Agent Cockpit</b> — a self-hosted iPhone PWA for driving Claude and Codex on my Mac from anywhere<br>
   <b>Agent Config Keeper (ACK)</b> — a VS Code extension to browse, install, and manage every AI agent's config from one place<br>
   <b>mx4ring</b> — reverse-engineered my MX Master 4's HID++ driver to rebuild its Actions Ring on Linux, because nobody else had<br>
-  <b>OSCAR</b> — a CLI that matches job postings to high-signal open-source issues actually worth contributing to<br>
   <b>Awesome AI</b> — a curated repo of prompting and agent patterns, and the papers actually worth reading
 </p>
 
